@@ -4,7 +4,7 @@ namespace App;
 
 class Item {
     private string $descricao;
-    private int $valor;
+    private float $valor;
 
     public function __construct()
     {
