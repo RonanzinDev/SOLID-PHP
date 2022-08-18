@@ -1,0 +1,5 @@
+# ETL - Extract Transform Load
+
+# OCP - Open/Closed Principle
+
+Uma entidade de software, tais como classes, modulos, funções etc, devem sempre esta aberta para extensões, mas fechadas para modificações
