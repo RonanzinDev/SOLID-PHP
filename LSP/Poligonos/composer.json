@@ -1,0 +1,16 @@
+{
+    "name": "code-dev-44/poligonos",
+    "type": "no",
+    "authors": [
+        {
+            "name": "Gabriel Morelli",
+            "email": "gabriel.morelli@codenapp.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Poligono\\" : "src/"
+        }
+    }
+}

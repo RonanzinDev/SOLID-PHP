@@ -1,0 +1,15 @@
+{
+    "name": "code-dev-44/crm",
+    "authors": [
+        {
+            "name": "Gabriel Morelli",
+            "email": "gabriel.morelli@codenapp.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CRM\\": "src/"
+        }
+    }
+}
